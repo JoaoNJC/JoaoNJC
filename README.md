@@ -1,5 +1,19 @@
 ### Hey, folks 👋
 
+Welcome to my page!
+
+I'm João.
+Currently learning React/NextJS without falling on my bottom.
+Open to collaborating on interesting and innovative projects.
+
+Languages
+JavaScript
+
+Technologies & Frameworks
+React HTML5 CSS3
+
+OS
+MacOS 
 <!--
 **JoaoNJC/JoaoNJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
