@@ -3,6 +3,7 @@
 Welcome to my page!
 
 I'm João.
+
 Currently learning React/NextJS without falling on my bottom.
 Open to collaborating on interesting and innovative projects.
 
