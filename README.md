@@ -11,7 +11,7 @@ Open to collaborating on interesting and innovative projects.
 
 Languages
 
-JavaScript
+JavaScript, HTML, CSS
 
 
 Technologies & Frameworks
